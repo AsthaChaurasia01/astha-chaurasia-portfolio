@@ -199,6 +199,12 @@ section {
     height: 80vh;
 }
 
+
+.pp{
+    border-radius: 55%;
+    box-shadow: 0 0 20px #dab77b93;
+}
+
 .section__pic-container {
     display: flex;
    height: 400px;
